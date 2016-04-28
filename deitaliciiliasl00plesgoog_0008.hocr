@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./deitaliciiliasl00plesgoog_0008.png"; bbox 0 0 3886 5158; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1018 1525 1340 1614">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1018 1525 1340 1614">
+     <span class='ocr_line' id='line_1_1' title="bbox 1018 1525 1340 1614; baseline 0 -2"><span class='ocrx_word' id='word_1_1' title='bbox 1018 1525 1094 1613; x_wconf 87' lang='lat' dir='ltr'><strong>DE</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 1118 1525 1340 1614; x_wconf 80' lang='lat' dir='ltr'><strong>¹ITALICI</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 453 1799 1643 2047">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 453 1799 1643 2047">
+     <span class='ocr_line' id='line_1_2' title="bbox 453 1799 1643 2047; baseline -0.003 -86"><span class='ocrx_word' id='word_1_3' title='bbox 453 2035 458 2047; x_wconf 15' lang='grc' dir='ltr'>ι</span> <span class='ocrx_word' id='word_1_4' title='bbox 652 1929 654 1933; x_wconf 22' lang='grc' dir='ltr'>ψ</span> <span class='ocrx_word' id='word_1_5' title='bbox 721 1800 1126 1960; x_wconf 83' lang='lat' dir='ltr'><strong>ILIADE</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 1207 1799 1643 1958; x_wconf 80' lang='lat' dir='ltr'><strong>LATINA</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1083 2145 1279 2212">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1083 2145 1279 2212">
+     <span class='ocr_line' id='line_1_3' title="bbox 1083 2145 1279 2212; baseline 0.01 -2"><span class='ocrx_word' id='word_1_7' title='bbox 1083 2145 1279 2212; x_wconf 74' lang='lat' dir='ltr'>ACCEDIT</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 927 2340 1429 2446">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 927 2340 1429 2446">
+     <span class='ocr_line' id='line_1_4' title="bbox 927 2340 1429 2446; baseline 0.002 -3"><span class='ocrx_word' id='word_1_8' title='bbox 927 2340 1115 2446; x_wconf 84' lang='lat' dir='ltr'>ILIAS</span> <span class='ocrx_word' id='word_1_9' title='bbox 1162 2343 1429 2446; x_wconf 84' lang='lat' dir='ltr'><strong>LATINA</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 836 2583 1520 2662">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 836 2583 1520 2662">
+     <span class='ocr_line' id='line_1_5' title="bbox 836 2583 1520 2662; baseline 0 -4"><span class='ocrx_word' id='word_1_10' title='bbox 836 2585 943 2660; x_wconf 85' lang='lat' dir='ltr'><strong>CUM</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 978 2587 1267 2662; x_wconf 82' lang='lat' dir='ltr'><strong>APPARATU</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 1301 2583 1520 2662; x_wconf 86' lang='lat' dir='ltr'>CRITICO</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 0 0 1948 5158">
+    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 0 0 1948 5158">
+     <span class='ocr_line' id='line_1_6' title="bbox 0 0 1948 5158; baseline 0 0"><span class='ocrx_word' id='word_1_13' title='bbox 0 0 1948 5158; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
